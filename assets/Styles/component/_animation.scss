@@ -1,0 +1,5 @@
+.animationElement {
+    opacity: 0;
+    transform: translateX(-200px);
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
